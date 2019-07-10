@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T_TIPO",
+				"T_TIPO_DE_PROCESSO"
+			],
+			[
+				"FK_TIPO",
+				"FK_TIPO_PROCESSO"
+			],
+			[
+				"FASE",
+				"FASE_PROCESSUAL"
+			],
+			[
+				"FA",
+				"FASE_PROCESSUAL"
+			],
+			[
+				"co",
+				"COMARCA"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Models/User.php",
+			"settings":
+			{
+				"buffer_size": 741,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Providers/AuthServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 578,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 155.0,
+		"history":
+		[
+			"cd .",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Models",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Providers"
+	],
+	"file_history":
+	[
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Providers/AppServiceProvider.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/finance.sublime-project",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Console/Kernel.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/.env",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/resources/views/auth/register.blade.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/bootstrap/app.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Http/Controllers/Controller.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/routes/api.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/routes/web.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/User.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/config/app.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/vendor/laravel/framework/src/Illuminate/Console/Application.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/app/Http/Controllers/HomeController.php",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/storage/logs/laravel-2019-07-04.log",
+		"/C/Users/gferr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/raduke/finance/config/database.php",
+		"/C/Users/gferr/Documents/BlueTecnologia/CDHU2905/SCRIPT_MIG_CDHU_29052019.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/cptm/JUNHO/CPTM2506.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/cptm/29052019/CPTM2905.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/docbetter/Passo a passo/MMAA/dbo/lista das que tenho que arrumar",
+		"/C/Users/gferr/Documents/BlueTecnologia/BBMAIO/SCRIPT.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/Migracao/MIG_FINAL_3103.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/Migracao/02-_Script_-_Migração_-_BB.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/Migracao/02-_Script_-_Migração_-_CDHU.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/Migracao/00_-_Script_-_Migração.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/Migracao/01-_Script_-_Migração_-_SABESP.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/blockchain/raschunho.txt",
+		"/C/Users/gferr/Documents/BlueTecnologia/docbetter/Passo a passo/MMAA/dbo/MODELO_HTML.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/docbetter/Passo a passo/MMAA/dbo/MODELO_COMBINACAO_HTML.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/docbetter/MMAA/dbo.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/docbetter/MMAA_PUB/dbo.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/docbetter/PUBLICACOES/dbo.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/docbetter/MMAA/aberturaContencioso.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/Crefisa MONITORIA/insertCrefisa.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/07042019/02-_Script_-_Migração_-_BB.sql",
+		"/C/Users/gferr/Documents/BlueTecnologia/MonitoriaDourados/insertDourados.Sql"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Models/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Providers/AuthServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "finance.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view/regis",
+				"resources\\views\\auth\\register.blade.php"
+			],
+			[
+				"connector.php",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php"
+			],
+			[
+				"log.log",
+				"storage\\logs\\laravel-2019-07-04.log"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
