@@ -17,8 +17,10 @@ class CreateTableCard extends Migration
             $table->bigIncrements('id');
             $table->unsignedBigInteger('fk_user');
             $table->foreign('fk_user')->references('id')->on('users');
-            $table->string('name');
-            $table->string('last_4_digits');
+            $table->string('name', 100);
+            $table->string('last_4_digits', 4);
+            $table->integer('payment_day');
+            $table->integer('billing_day')
             $table->timestamps();
             $table->softDeletes();
         });
