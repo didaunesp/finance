@@ -1,0 +1,50 @@
+version: "3.6"
+
+networks: 
+    finance:
+
+services:
+    nginx:
+        image: nginx:stable-alpine
+        container_name: finance-nginx
+        ports:
+            - 8088:80
+        volumes:
+            - ./src:/var/www/html
+            - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+        depends_on: 
+            - mysql
+            - php
+        networks: 
+            - finance
+
+    php:
+        build:
+            context: .
+            dockerfile: Dockerfile 
+        container_name: finance-php
+        volumes:
+            - ./src:/var/www/html
+        ports:
+            - 9000:9000
+        networks: 
+            - finance
+
+    mysql:
+        image: mysql:8.0.19
+        container_name: finance-mysql
+        restart: unless-stopped
+        tty: true
+        ports:
+            - 3306:3306
+        volumes:
+            - ./mysql:/var/lib/mysql
+        environment: 
+            MYSQL_DATABASE: finance
+            MYSQL_USER: homestead
+            MYSQL_PASSWORD: secret
+            MYSQL_ROOT_PASSWORD: secret
+            SERVICE_TAGS: dev
+            SERVICE_NAME: mysql
+        networks: 
+            - finance
